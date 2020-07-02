@@ -1,0 +1,25 @@
+body {
+    
+    background: #F7F7F7
+}
+
+section {
+    
+    margin: 100px auto;
+    width: 400px;
+    background: #DDD;
+    padding: 50px 50px 10px 50px;
+    border-radius: 10px;
+    box-shadow: 6px 6px 15px 10px #FFF
+}
+
+section h2 {
+    
+    color: #ec1c23;
+    margin-bottom: 20px
+}
+
+section li {
+    
+    color: #08526D
+}
